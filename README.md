@@ -1,4 +1,4 @@
-# Si-Educational Free Next.js Educational Website Template
+# Notus-React Free React.js Tailwindcss Template
 #### Preview
 
  - [Demo](https://themewagon.github.io/Notus-React/)
@@ -30,7 +30,7 @@ bun start
 
 ## Author 
 ```
-Design and code is completely written by Getnext.jsTemplates design and development team.  
+Design and code is completely written by Creative Tim design and development team.  
 ```
 
 ## License
