@@ -1,7 +1,7 @@
 # Si-Educational Free Next.js Educational Website Template
 #### Preview
 
- - [Demo](https://themewagon.github.io/si-educational-nextjs/)
+ - [Demo](https://themewagon.github.io/Notus-React/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/Si-educational)
