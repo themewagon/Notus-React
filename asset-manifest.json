@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Notus-React/static/css/main.c5206dd7.css",
-    "main.js": "/Notus-React/static/js/main.bb186947.js",
+    "main.js": "/Notus-React/static/js/main.6c17efca.js",
     "static/media/team-4-470x470.png": "/Notus-React/static/media/team-4-470x470.4ef82ef45a9598d24c4c.png",
     "static/media/fa-solid-900.svg": "/Notus-React/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/Notus-React/static/media/fa-brands-400.216edb96b562c79adc09.svg",
@@ -40,10 +40,10 @@
     "static/media/github.svg": "/Notus-React/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/Notus-React/index.html",
     "main.c5206dd7.css.map": "/Notus-React/static/css/main.c5206dd7.css.map",
-    "main.bb186947.js.map": "/Notus-React/static/js/main.bb186947.js.map"
+    "main.6c17efca.js.map": "/Notus-React/static/js/main.6c17efca.js.map"
   },
   "entrypoints": [
     "static/css/main.c5206dd7.css",
-    "static/js/main.bb186947.js"
+    "static/js/main.6c17efca.js"
   ]
 }
