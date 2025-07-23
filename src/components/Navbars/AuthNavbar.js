@@ -51,36 +51,39 @@ export default function Navbar(props) {
                 <PagesDropdown />
               </li>
               <li className="flex items-center">
-                <a
+                <Link
                   className="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#!"
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   
                 >
                   <i className="lg:text-blueGray-200 text-blueGray-400 fab fa-facebook text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Share</span>
-                </a>
+                </Link>
               </li>
 
               <li className="flex items-center">
-                <a
+                <Link
                   className="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#!"
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   
                 >
                   <i className="lg:text-blueGray-200 text-blueGray-400 fab fa-twitter text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Tweet</span>
-                </a>
+                </Link>
               </li>
 
               <li className="flex items-center">
-                <a
+                <Link
                   className="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="#!"
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   
                 >
                   <i className="lg:text-blueGray-200 text-blueGray-400 fab fa-github text-lg leading-lg " />
                   <span className="lg:hidden inline-block ml-2">Star</span>
-                </a>
+                </Link>
               </li>
 
             </ul>

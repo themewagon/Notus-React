@@ -264,33 +264,36 @@ export default function Sidebar() {
               </li>
 
               <li className="inline-flex">
-                <a
-                  href="#!"
+                <Link
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fab fa-angular mr-2 text-blueGray-300 text-base"></i>
                   Angular
-                </a>
+                </Link>
               </li>
 
               <li className="inline-flex">
-                <a
-                  href="#!"
+                <Link
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fab fa-js-square mr-2 text-blueGray-300 text-base"></i>
                   Javascript
-                </a>
+                </Link>
               </li>
 
               <li className="inline-flex">
-                <a
-                  href="#!"
+                <Link
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fab fa-react mr-2 text-blueGray-300 text-base"></i>
                   NextJS
-                </a>
+                </Link>
               </li>
 
               <li className="inline-flex">
@@ -305,23 +308,25 @@ export default function Sidebar() {
               </li>
 
               <li className="inline-flex">
-                <a
-                  href="#!"
+                <Link
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fas fa-link mr-2 text-blueGray-300 text-base"></i>
                   Svelte
-                </a>
+                </Link>
               </li>
 
               <li className="inline-flex">
-                <a
-                  href="#!"
+                <Link
+                  to=""
+                    onClick={(e) => e.preventDefault()}
                   className="text-blueGray-700 hover:text-blueGray-500 text-sm block mb-4 no-underline font-semibold"
                 >
                   <i className="fab fa-vuejs mr-2 text-blueGray-300 text-base"></i>
                   VueJS
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
