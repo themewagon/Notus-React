@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/Notus-React/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Notus-React)
+ - [Download from ThemeWagon](https://themewagon.com/themes/notus-react/)
 
 ## Getting Started
 
